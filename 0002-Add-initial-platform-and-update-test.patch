@@ -1,0 +1,25 @@
+From 305f28dbf45acfb8d8e7d6bf2f6f7ba28660aab7 Mon Sep 17 00:00:00 2001
+From: rp <ruanpengnice@163.com>
+Date: Tue, 19 May 2020 09:10:39 +0800
+Subject: [PATCH 2/2] Add initial platform and update test
+
+---
+ README.md      | 1 +
+ app/platform.c | 0
+ 2 files changed, 1 insertion(+)
+ create mode 100644 app/platform.c
+
+diff --git a/README.md b/README.md
+index f7ab03e..f161a67 100644
+--- a/README.md
++++ b/README.md
+@@ -1,2 +1,3 @@
+ #gittest
+ #first update
++#second update
+diff --git a/app/platform.c b/app/platform.c
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.24.1.windows.2
+
